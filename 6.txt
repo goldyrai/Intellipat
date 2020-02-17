@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding featuring branch
+=======
+hello world
+>>>>>>> 85c78eb022ef404d32beb6b1345b6568a3973d21
